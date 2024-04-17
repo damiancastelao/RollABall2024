@@ -1,5 +1,6 @@
 # Roll a ball 2024
----
-Sincronizado con la app de PlasticSCM
 
-## Movimiento de camara
+---
+
+[Guide](https://docs.google.com/document/d/186nEV7SsBzl5FctVbK7g_3ytKgV6ZeipUvr1De6L1po/edit?usp=sharing) in Google Drive
+
